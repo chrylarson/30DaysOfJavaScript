@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "logger",
+  "main": "app.js",
+  "dependencies": {
+    "connect-cache-control": "^1.0.0",
+    "express": "^4.14.0",
+    "express-error-handler": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
